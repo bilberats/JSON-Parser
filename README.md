@@ -1,2 +1,2 @@
-# L-game
-A game that already existed that i programmed a while ago
+# JSON Parser
+A JSON parser i programmed a while ago for my ray tracing engine
